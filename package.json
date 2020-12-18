@@ -1,0 +1,17 @@
+{
+  "name": "MT5",
+  "version": "0.0.1",
+  "description": "Audio mix panel with HTML5",
+  "main": "server.js",
+  "repository": "https://github.com/LeanderHeuvel/MT5.git",
+  "author": "Leander van den Heuvel",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
